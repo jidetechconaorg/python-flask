@@ -8,3 +8,5 @@ Also checking how auto-merge works
 Edit again
 Edit again 2
 
+Edit 4
+
